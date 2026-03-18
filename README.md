@@ -38,10 +38,6 @@ If all bits match, the AND gate outputs HIGH → Unlock (LED ON)
 
 If any bit mismatches, output remains LOW → Access Denied
 
-🔌 Circuit Diagram
-
-(Add your Multisim screenshot here)
-
 🚀 How to Run
 
 Open the project in NI Multisim
@@ -75,10 +71,6 @@ Security systems
 ATM authentication systems
 
 Access control systems
-
-🧑‍💻 Author
-
-S.L.Saramya
 
 GitHub: https://github.com/Saramya68
 
